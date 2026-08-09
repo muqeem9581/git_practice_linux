@@ -1,0 +1,3 @@
+git reset --soft =used to remove the file from the local repo to the stagging 
+git reset --mixed =the file from the local repo to the working directory
+git reset --hard = completely remove the file from the local repo ,stagging,working directory.
